@@ -1,7 +1,7 @@
 {
   "wallpaper": "https://wp.upx8.com/api.php",
   "spider": "https://gh-proxy.com/https://raw.github.com/nauxij/wjx/main/custom_spider.jar
-.jar;md5;8bb2ca1440d7f7105cb8c94710fc25a0",
+.jar",
   "lives": [
     {
       "name": "本地live文件",
@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://github.com/nauxij/wjx/blob/main/戏曲多多.json"
+      "ext": "https://gh-proxy.com/https://raw.github.com/nauxij/wjx/blob/main/戏曲多多.json"
     },
     {
       "key": "csp_XYQHiker_酷奇MV",
