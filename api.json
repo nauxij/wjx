@@ -240,26 +240,6 @@
       "ext": "./lib/Bili.json"
     },
     {
-      "key": "csp_Bili幼儿",
-      "name": "🐞哔哩幼儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/幼儿乐园.json"
-    },
-    {
-      "key": "csp_Bili少儿",
-      "name": "🐞哔哩少儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/少儿教育.json"
-    },
-    {
       "key": "csp_Bili小学",
       "name": "🐞哔哩小学",
       "type": 3,
@@ -267,7 +247,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/小学课堂.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/小学课堂.json"
     },
     {
       "key": "csp_Bili初中",
@@ -277,7 +257,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/初中课堂.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/初中课堂.json"
     },
     {
       "key": "csp_Bili高中",
@@ -287,17 +267,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/高中课堂.json"
-    },
-    {
-      "key": "JS哔哩直播",
-      "name": "哔哩直播[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/哔哩直播.js"
+      "ext": ""https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/高中课堂.json"
     },
     {
       "key": "csp_XYQHiker_戏曲多多",
