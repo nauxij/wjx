@@ -1,8 +1,7 @@
 {
-  "wallpaper": "https://wp.upx8.com/api.php",
-  "spider": "https://gh-proxy.com/https://raw.github.com/nauxij/wjx/main/custom_spider.jar
-.jar;md5;8bb2ca1440d7f7105cb8c94710fc25a0",
-  "lives": [
+   "wallpaper": "https://wp.upx8.com/api.php",
+   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar;md5;8bb2ca1440d7f7105cb8c94710fc25a0",
+   "lives": [
     {
       "name": "本地live文件",
       "type": "0",
