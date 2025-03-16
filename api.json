@@ -291,6 +291,17 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/酷奇MV.json"
     },
     {
+      "key": "?一起看?",
+      "name": "?一起看短剧?",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/一起看短剧.json"
+      "jar":""
+    },
+    {
       "key": "csp_XYQHiker_短剧屋",
       "name": "🎬短剧屋",
       "type": 3,
