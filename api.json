@@ -1,7 +1,7 @@
 {
-  "wallpaper": "https://wp.upx8.com/api.php",
-  "spider" :"https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
-  "lives": [
+   "wallpaper":"https://wp.upx8.com/api.php",
+   "spider":"https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
+   "lives": [
     {
       "name": "青岛",
       "type": "0",
