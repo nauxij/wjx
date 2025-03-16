@@ -1,6 +1,6 @@
 {
    "wallpaper": "https://wp.upx8.com/api.php",
-   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar;md5;8bb2ca1440d7f7105cb8c94710fc25a0",
+   "spider": "https://gh-proxy.com/https://raw.github.com/nauxij/wjx/main/custom_spider.jar",
    "lives": [
     {
       "name": "本地live文件",
@@ -277,7 +277,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/初中课堂.json"
+      "ext": "https://gh-proxy.com/https://github.com/nauxij/wjx/blob/main/初中课堂.json"
     },
     {
       "key": "csp_Bili高中",
@@ -287,7 +287,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/高中课堂.json"
+      "ext": "https://gh-proxy.com/https://github.com/nauxij/wjx/blob/main/高中课堂.json"
     },
     {
       "key": "JS哔哩直播",
