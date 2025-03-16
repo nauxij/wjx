@@ -6,7 +6,7 @@
       "name": "本地",
       "type": "0",
       "pass": true,
-      "url": "https://raw.githubusercontent.com/nauxij/auh/refs/heads/main/live.txt","
+      "url": "https://raw.githubusercontent.com/nauxij/auh/refs/heads/main/live.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
     },
