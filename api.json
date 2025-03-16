@@ -309,7 +309,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.github.com/nauxij/wjx/blob/main/戏曲多多.json"
+      "ext": "
+https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/戏曲多多.json"
     },
     {
       "key": "csp_XYQHiker_酷奇MV",
