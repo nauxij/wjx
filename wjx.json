@@ -6,7 +6,7 @@
       "name": "本地",
       "type": "0",
       "pass": true,
-      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.txt",
+      "url": "https://raw.githubusercontent.c/qd.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
     },
@@ -14,7 +14,7 @@
       "name": "BMCH",
       "type": "0",
       "pass": true,
-      "url": "https:n",
+      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
