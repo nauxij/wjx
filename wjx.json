@@ -7,7 +7,7 @@
       "name": "Tianmu",
       "type": "0",
       "pass": true,
-      "url": ""https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
+      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     }
