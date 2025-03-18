@@ -2,27 +2,12 @@
    "wallpaper":"https://wp.upx8.com/api.php",
    "spider":"https://gitee.com/nauxijgnaw/sxwn/raw/master/custom_spider.jar",
    "lives": [
-    {
-      "name": "本地",
-      "type": "0",
-      "pass": true,
-      "url": "https://raw.githubusercontent.c/qd.txt",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
-    },
-    {
-      "name": "BMCH",
-      "type": "0",
-      "pass": true,
-      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
+   
     {
       "name": "Tianmu",
       "type": "0",
       "pass": true,
-      "url": "./lib/iptv.txt",
+      "url": ""https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     }
