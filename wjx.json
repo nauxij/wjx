@@ -1,6 +1,6 @@
 {
    "wallpaper":"https://wp.upx8.com/api.php",
-   "spider":"https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
+   "spider":"https://gitee.com/nauxijgnaw/sxwn/raw/master/custom_spider.jar",
    "lives": [
     {
       "name": "本地",
@@ -81,6 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
