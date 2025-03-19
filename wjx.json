@@ -43,35 +43,35 @@
       "name": "豆瓣[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/drpy.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/百忙无果.js"
     },
     {
       "key": "csp_Yisou",
@@ -91,7 +91,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/云盘资源.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/云盘资源.json"
     },
     {
       "key": "push_agent",
@@ -197,7 +197,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔嘀影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/哔嘀影视.json"
     },
     {
       "key": "csp_Ddys",
@@ -228,76 +228,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.aikanbot.com"
-    },
-    {
-      "key": "csp_Bili",
-      "name": "🐞哔哩综合",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/Bili.json"
-    },
-    {
-      "key": "csp_Bili幼儿",
-      "name": "🐞哔哩幼儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/幼儿乐园.json"
-    },
-    {
-      "key": "csp_Bili少儿",
-      "name": "🐞哔哩少儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/少儿教育.json"
-    },
-    {
-      "key": "csp_Bili小学",
-      "name": "🐞哔哩小学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/小学课堂.json"
-    },
-    {
-      "key": "csp_Bili初中",
-      "name": "🐞哔哩初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/初中课堂.json"
-    },
-    {
-      "key": "csp_Bili高中",
-      "name": "🐞哔哩高中",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/高中课堂.json"
-    },
-    {
-      "key": "JS哔哩直播",
-      "name": "哔哩直播[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/哔哩直播.js"
     },
     {
       "key": "csp_XYQHiker_戏曲多多",
@@ -351,7 +281,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/七新影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/七新影视.json"
     },
      {
       "key": "✨一起看✨",
@@ -362,7 +292,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/一起看短剧.json"
-      "jar":""
+      "jar":"https://gitee.com/nauxijgnaw/sxwn/raw/master/duju.jar.bin"
     },
     {
       "key": "csp_XYQHiker_骚火电影VIP",
@@ -372,7 +302,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/骚火电影VIP.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/骚火电影VIP.json"
     },
     {
       "key": "csp_XYQHiker_电影盒子",
@@ -382,7 +312,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/电影盒子.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/电影盒子.json"
     },
     {
       "key": "csp_XYQHiker_星辰影院",
@@ -392,7 +322,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/星辰影院.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/星辰影院.json"
     },
     {
       "key": "csp_XYQHiker_可可影视",
@@ -402,7 +332,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/可可影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/可可影视.json"
     },
     {
       "key": "csp_XYQHiker_爱看影视",
@@ -412,7 +342,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/爱看影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/爱看影视.json"
     },
     {
       "key": "csp_XYQHiker_看一看影视",
@@ -422,7 +352,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/看一看影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/看一看影视.json"
     },
     {
       "key": "csp_XYQHiker_九八局",
@@ -432,7 +362,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/九八剧.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/九八剧.json"
     },
     {
       "key": "csp_XYQHiker_八号影视",
@@ -442,7 +372,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/八号影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/八号影视.json"
     },
     {
       "key": "csp_XYQHiker_来看点播",
@@ -452,7 +382,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/来看点播.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/来看点播.json"
     },
     {
       "key": "柚子资源",
@@ -504,32 +434,12 @@ https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/mai
       "key": "DRJS_虎牙",
       "name": "虎牙直播(JS)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/虎牙直播.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/虎牙直播.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
     },
-    {
-      "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯虎牙直播(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/虎牙直播.json"
-    },
-    {
-      "key": "csp_XYQHiker_斗鱼直播",
-      "name": "🐠斗鱼直播(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/斗鱼直播.json"
-    }
   ],
   "parses": [
     {
