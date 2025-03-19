@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "csp_Bili小学",
-      "name": "🐞小学",
+      "name": "小学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -24,7 +24,7 @@
     },
     {
       "key": "csp_Bili初中",
-      "name": "🐞初中",
+      "name": "初中",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -34,7 +34,7 @@
     },
     {
       "key": "csp_Bili高中",
-      "name": "🐞高中",
+      "name": "高中",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
