@@ -1,15 +1,14 @@
 {
-  "wallpaper": "https://wp.upx8.com/api.php",
-  "spider": "https://gitee.com/nauxijgnaw/sxwn/raw/master/custom_spider.jar",
-   "lives": [
+    "wallpaper":"https://wp.upx8.com/api.php",
+    "spider":"https://gitee.com/nauxijgnaw/sxwn/raw/master/custom_spider.jar",
+    "lives": [
     {
-      "name": "本地live文件",
+      "name": "青岛",
       "type": "0",
       "pass": true,
-      "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
+      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
-    },
     {
       "name": "BMCH",
       "type": "0",
@@ -197,7 +196,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔嘀影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/哔嘀影视.json"
     },
     {
       "key": "csp_Ddys",
@@ -307,7 +306,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/戏曲多多.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/戏曲多多.json"
     },
     {
       "key": "csp_XYQHiker_酷奇MV",
@@ -317,7 +316,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/酷奇MV.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main酷奇MV.json"
     },
     {
       "key": "csp_XYQHiker_短剧屋",
@@ -327,7 +326,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/短剧屋.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main短剧屋.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
