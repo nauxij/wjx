@@ -1,12 +1,12 @@
 {
   "wallpaper": "https://wp.upx8.com/api.php",
-  "spider": "./custom_spider.jar;md5;8bb2ca1440d7f7105cb8c94710fc25a0",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
   "lives": [
     {
       "name": "本地live文件",
       "type": "0",
       "pass": true,
-      "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
+      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
     },
@@ -237,67 +237,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/Bili.json"
-    },
-    {
-      "key": "csp_Bili幼儿",
-      "name": "🐞哔哩幼儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/幼儿乐园.json"
-    },
-    {
-      "key": "csp_Bili少儿",
-      "name": "🐞哔哩少儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/少儿教育.json"
-    },
-    {
-      "key": "csp_Bili小学",
-      "name": "🐞哔哩小学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/小学课堂.json"
-    },
-    {
-      "key": "csp_Bili初中",
-      "name": "🐞哔哩初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/初中课堂.json"
-    },
-    {
-      "key": "csp_Bili高中",
-      "name": "🐞哔哩高中",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/高中课堂.json"
-    },
-    {
-      "key": "JS哔哩直播",
-      "name": "哔哩直播[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/哔哩直播.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/Bili.json"
     },
     {
       "key": "csp_XYQHiker_戏曲多多",
@@ -307,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/戏曲多多.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/戏曲多多.json"
     },
     {
       "key": "csp_XYQHiker_酷奇MV",
@@ -317,7 +257,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/酷奇MV.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/酷奇MV.json"
     },
     {
       "key": "csp_XYQHiker_短剧屋",
@@ -327,77 +267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/短剧屋.json"
-    },
-    {
-      "key": "csp_XYQHiker_兔小贝",
-      "name": "🐰兔小贝(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/兔小贝.json"
-    },
-    {
-      "key": "csp_XYQHiker_兔小贝2",
-      "name": "🐰兔小贝2(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/兔小贝2.json"
-    },
-    {
-      "key": "csp_XYQHiker_播视童趣",
-      "name": "👶🏻播视童趣(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/播视童趣.json"
-    },
-    {
-      "key": "csp_XYQHiker_樱花动漫",
-      "name": "🌸樱花动漫(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/樱花动漫.json"
-    },
-    {
-      "key": "csp_XYQHiker_去看吧动漫",
-      "name": "🔭去看吧动漫(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/去看吧动漫.json"
-    },
-    {
-      "key": "csp_XYQHiker_嗷呜动漫",
-      "name": "🙀嗷呜动漫(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/嗷呜动漫.json"
-    },
-    {
-      "key": "csp_XYQHiker_动漫巴士",
-      "name": "🚌动漫巴士(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/动漫巴士.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/短剧屋.json"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -407,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/农民影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/农民影视.json"
     },
     {
       "key": "csp_XYQHiker_七新影视",
@@ -417,7 +287,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/七新影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/七新影视.json"
     },
     {
       "key": "csp_XYQHiker_骚火电影VIP",
@@ -427,7 +297,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/骚火电影VIP.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/骚火电影VIP.json"
     },
     {
       "key": "csp_XYQHiker_电影盒子",
@@ -437,7 +307,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/电影盒子.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/电影盒子.json"
     },
     {
       "key": "csp_XYQHiker_星辰影院",
@@ -447,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/星辰影院.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/星辰影院.json"
     },
     {
       "key": "csp_XYQHiker_可可影视",
@@ -457,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/可可影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/可可影视.json"
     },
     {
       "key": "csp_XYQHiker_爱看影视",
@@ -467,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/爱看影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/爱看影视.json"
     },
     {
       "key": "csp_XYQHiker_看一看影视",
@@ -477,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/看一看影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/看一看影视.json"
     },
     {
       "key": "csp_XYQHiker_九八局",
@@ -487,7 +357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/九八剧.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/九八剧.json"
     },
     {
       "key": "csp_XYQHiker_八号影视",
@@ -497,7 +367,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/八号影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/八号影视.json"
     },
     {
       "key": "csp_XYQHiker_来看点播",
@@ -507,7 +377,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/来看点播.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/来看点播.json"
     },
     {
       "key": "柚子资源",
