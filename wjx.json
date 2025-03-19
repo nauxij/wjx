@@ -6,87 +6,42 @@
       "name": "青岛",
       "type": "0",
       "pass": true,
-      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.txt",
+      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/my.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png"
     }
   ],
-"sites": [
+  "sites": [
     {
-      "key": "csp_LocalFile",
-      "name": "💻本地视频",
+      "key": "csp_Bili小学",
+      "name": "小学",
       "type": 3,
-      "api": "csp_LocalFile",
+      "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "type_flag": 0
+      "ext": "https://gh-proxy.com/https://github.com/nauxij/wjx/blob/main/小学课堂.json"
     },
     {
-      "key": "drpy_js_豆瓣",
-      "name": "豆瓣[js]",
+      "key": "csp_Bili初中",
+      "name": "初中",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/drpy.js"
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://github.com/nauxij/wjx/blob/main/初中课堂.json"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽[js]",
+      "key": "csp_Bili高中",
+      "name": "高中",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "优酷[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "百忙无果[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "📀易搜(搜索)",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "csp_XYQHikerAL_云盘资源",
-      "name": "📀云盘资源(搜索)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/云盘资源.json"
-    },
-    {
-      "key": "push_agent",
-      "name": "📽推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://github.com/nauxij/wjx/blob/main/高中课堂.json"
+    }
     {
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
