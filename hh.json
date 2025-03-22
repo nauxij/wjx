@@ -6,25 +6,25 @@
       "name": "本地live文件","name": "本地live文件",
       "type": "0","type": "0",
       "pass": true,"pass": true,
-      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json","url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}","epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png""logo": "https://epg.iill.top/logo/{name}.png"
+      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://gh-proxy.com/https://github.com/nauxij/tv/blob/main/{name}.png?raw=true"
     },
     {
       "name": "BMCH","name": "BMCH",
       "type": "0","type": "0",
       "pass": true,"pass": true,
-      "url": "./lib/iptv-ok.m3u","url": "./lib/iptv-ok.m3u",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}","epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png""logo": "https://epg.v1.mk/logo/{name}.png"
+      "url": "./lib/iptv-ok.m3u",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo": "https://gh-proxy.com/https://github.com/nauxij/tv/blob/main/{name}.png?raw=true"
     },
     {
       "name": "Tianmu","name": "Tianmu",
       "type": "0","type": "0",
       "pass": true,"pass": true,
-      "url": "./lib/iptv.txt","url": "./lib/iptv.txt",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}","epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png""logo": "https://epg.v1.mk/logo/{name}.png"
+      "url": "./lib/iptv.txt",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
     }
   ],
   "sites": ["sites": [
@@ -81,6 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+0,
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
