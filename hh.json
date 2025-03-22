@@ -1,63 +1,63 @@
 {
-  "wallpaper": "https://wp.upx8.com/api.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
-  "lives": [
+  "wallpaper": "https://wp.upx8.com/api.php","wallpaper": "https://wp.upx8.com/api.php",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar","spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
+  "lives": ["lives": [
     {
-      "name": "本地live文件",
-      "type": "0",
-      "pass": true,
-      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
+      "name": "本地live文件","name": "本地live文件",
+      "type": "0","type": "0",
+      "pass": true,"pass": true,
+      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json","url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}","epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png""logo": "https://epg.iill.top/logo/{name}.png"
     },
     {
-      "name": "BMCH",
-      "type": "0",
-      "pass": true,
-      "url": "./lib/iptv-ok.m3u",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
+      "name": "BMCH","name": "BMCH",
+      "type": "0","type": "0",
+      "pass": true,"pass": true,
+      "url": "./lib/iptv-ok.m3u","url": "./lib/iptv-ok.m3u",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}","epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png""logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "Tianmu",
-      "type": "0",
-      "pass": true,
-      "url": "./lib/iptv.txt",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
+      "name": "Tianmu","name": "Tianmu",
+      "type": "0","type": "0",
+      "pass": true,"pass": true,
+      "url": "./lib/iptv.txt","url": "./lib/iptv.txt",
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}","epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png""logo": "https://epg.v1.mk/logo/{name}.png"
     }
   ],
-  "sites": [
+  "sites": ["sites": [
     {
-      "key": "csp_LocalFile",
-      "name": "💻本地视频",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "type_flag": 0
+      "key": "csp_LocalFile","key": "csp_LocalFile",
+      "name": "💻本地视频","name": "💻本地视频",
+      "type": 3,"type": 3,
+      "api": "csp_LocalFile","api": "csp_LocalFile",
+      "searchable": 0,"searchable": 0,
+      "quickSearch": 0,"quickSearch": 0,
+      "filterable": 1,"filterable": 1,
+      "type_flag": 0"type_flag": 0
     },
     {
-      "key": "drpy_js_豆瓣",
-      "name": "豆瓣[js]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy.js"
+      "key": "drpy_js_豆瓣","key": "drpy_js_豆瓣",
+      "name": "豆瓣[js]","name": "豆瓣[js]",
+      "type": 3,"type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js","api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy.js""ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy.js"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽[js]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/奇珍异兽.js"
+      "key": "drpy_js_奇珍异兽","key": "drpy_js_奇珍异兽",
+      "name": "奇珍异兽[js]","name": "奇珍异兽[js]",
+      "type": 3,"type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js","api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/奇珍异兽.js""ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/奇珍异兽.js"
     },
     {
-      "key": "drpy_js_优酷",
-      "name": "优酷[js]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/优酷.js"
+      "key": "drpy_js_优酷","key": "drpy_js_优酷",
+      "name": "优酷[js]","name": "优酷[js]",
+      "type": 3,"type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js","api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/优酷.js""ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
