@@ -190,6 +190,116 @@
             "ext": "https://v.xlys.ltd.ua"
         },
         {
+            "key": "✨安迪短剧✨",
+            "name": "✨安迪短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/安迪短剧.json"
+        },
+        {
+            "key": "✨PTT短剧✨",
+            "name": "✨PTT短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/PTT短剧.json"
+        },
+        {
+            "key": "✨一起看✨",
+            "name": "✨一起看短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/一起看短剧.json"
+        },
+        {
+            "key": "✨天龙影院✨",
+            "name": "✨天龙短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/天龙短剧.json"
+        },
+        {
+            "key": "✨七味短剧✨",
+            "name": "✨七味短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/七味短剧.json"
+        },
+        {
+            "key": "✨白嫖者联盟✨",
+            "name": "✨白嫖短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/白嫖者.json"
+        },
+        {
+            "key": "✨短剧屋✨",
+            "name": "✨短剧屋✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/短剧屋.json"
+        },
+        {
+            "key": "✨老王影院✨",
+            "name": "✨老王短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/老王短剧.json"
+        },
+        {
+            "key": "✨奇优影院✨",
+            "name": "✨奇优短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/奇优短剧.json"
+        },
+         {
+            "key": "✨毒舌短剧✨",
+            "name": "✨毒舌短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/毒舌短剧.json"
+        },
+        {
+            "key": "✨微云影视✨",
+            "name": "✨微云短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/微云短剧.json"
+        },
+        {
             "key": "csp_XYQHiker_修罗影视",
             "name": "🧲修罗影视(XYQH)",
             "type": 3,
