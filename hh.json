@@ -18,7 +18,7 @@
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
-"sites":[
+"sites": [
     {
       "key": "csp_LocalFile","key": "csp_LocalFile",
       "name": "💻本地视频","name": "💻本地视频",
