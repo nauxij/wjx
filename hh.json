@@ -1,24 +1,33 @@
 {
-  "wallpaper": "https://wp.upx8.com/api.php",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
-  "lives": [
-    {
-      "name": "本地live文件",
-      "type": "0",
-      "pass": true,
-      "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
-    },
-    {
-      "name": "BMCH",
-      "type": "0",
-      "pass": true,
-      "url": "./lib/iptv-ok.m3u",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-"sites":[
+    "wallpaper": "https://wp.upx8.com/api.php",
+    "spider": "./custom_spider.jar",
+    "lives": [
+        {
+            "name": "本地live文件",
+            "type": "0",
+            "pass": true,
+            "url": "./lib/qd.json",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png"
+        },
+        {
+            "name": "BMCH",
+            "type": "0",
+            "pass": true,
+            "url": "./lib/iptv-ok.m3u",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
+        },
+        {
+            "name": "Tianmu",
+            "type": "0",
+            "pass": true,
+            "url": "./lib/iptv.txt",
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
+        }
+    ],
+    "sites": [
     {
       "key": "csp_LocalFile","key": "csp_LocalFile",
       "name": "💻本地视频","name": "💻本地视频",
