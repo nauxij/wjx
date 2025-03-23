@@ -197,7 +197,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/哔嘀影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/哔嘀影视.json"
         },
         {
             "key": "csp_Ddys",
@@ -237,7 +237,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/Bili.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/Bili.json"
         },
         {
             "key": "csp_XYQHiker_戏曲多多",
@@ -247,7 +247,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/戏曲多多.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/戏曲多多.json"
         },
         {
             "key": "csp_XYQHiker_酷奇MV",
@@ -257,7 +257,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./lib/酷奇MV.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/酷奇MV.json"
         },
         {
             "key": "csp_XYQHiker_短剧屋",
@@ -267,7 +267,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/短剧屋.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/短剧屋.json"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -277,7 +277,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/农民影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/农民影视.json"
         },
         {
             "key": "csp_XYQHiker_七新影视",
@@ -287,7 +287,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/七新影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/七新影视.json"
         },
         {
             "key": "csp_XYQHiker_骚火电影VIP",
@@ -297,7 +297,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/骚火电影VIP.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/骚火电影VIP.json"
         },
         {
             "key": "csp_XYQHiker_电影盒子",
@@ -307,7 +307,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/电影盒子.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/电影盒子.json"
         },
         {
             "key": "csp_XYQHiker_星辰影院",
@@ -317,7 +317,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/星辰影院.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/星辰影院.json"
         },
         {
             "key": "csp_XYQHiker_可可影视",
@@ -327,7 +327,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/可可影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/可可影视.json"
         },
         {
             "key": "csp_XYQHiker_爱看影视",
@@ -337,7 +337,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/爱看影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/爱看影视.json"
         },
         {
             "key": "csp_XYQHiker_看一看影视",
@@ -347,7 +347,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/看一看影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/看一看影视.json"
         },
         {
             "key": "csp_XYQHiker_九八局",
@@ -357,7 +357,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/九八剧.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/九八剧.json"
         },
         {
             "key": "csp_XYQHiker_八号影视",
@@ -367,7 +367,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/八号影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/八号影视.json"
         },
         {
             "key": "csp_XYQHiker_来看点播",
@@ -377,7 +377,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/来看点播.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/来看点播.json"
         },
         {
             "key": "柚子资源",
