@@ -3,7 +3,30 @@
 CCTV-5+,http://qins.ren:50001/TVOD/6000000001000015875/wasusyt/index.m3u8
 CCTV-12,http://qins.ren:50001/TVOD/5000000011000031107/bestzb/index.m3u8
 
+亚洲影院,http://129.150.58.101:50001/TVOD/5841816227539527643/wasusyt/index.m3u8?
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 超级电影,http://qins.ren:50001/TVOD/2000000003000000031/hnbblive/index.m3u8
 中视经典,http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=MECE1189477111894771&ct=19234&tsum=582d215df269921b0c0ce288b5fac94a
 天映经典,http://180.143.83.119:8181/tsfile/live/1073_1.m3u8
@@ -21,128 +44,36 @@ CCTV-12,http://qins.ren:50001/TVOD/5000000011000031107/bestzb/index.m3u8
 广州影视,http://180.143.83.119:8181/tsfile/live/0131_1.m3u8
 辽宁卫视,http://180.143.83.119:8181/tsfile/live/0121_1.m3u8
 
-凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻.备用,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-TaiwanPlus,http://211.75.171.121:8531/http/61.67.128.137:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
-Tvbs新聞台,http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
-Tvbs綜合台,http://211.75.171.121:8575/http/61.67.128.137:8081/hls/75/817/ch058.m3u8
-Tvbs歡樂台,http://211.75.171.121:8527/http/61.67.128.137:8081/hls/65/807/ch017.m3u8
-寰宇新聞台,http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
-東森新聞台,http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
-中天新聞台,http://211.75.171.121:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
-年代新聞台,http://211.75.171.121:8544/http/61.67.128.137:8081/hls/67/809/ch027.m3u8
-三立新聞台,http://211.75.171.121:8537/http/61.67.128.137:8081/hls/65/807/ch018.m3u8
-非凡新聞台,http://211.75.171.121:8623/http/61.67.128.137:8081/hls/75/817/ch057.m3u8
-民視新聞台,http://211.75.171.121:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
-壹電視新聞,http://211.75.171.121:8549/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
-華視電視台,http://211.75.171.121:8536/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
-中視電視台,http://211.75.171.121:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
-民視電視台,http://211.75.171.121:8567/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
-公視電視台,http://211.75.171.121:8583/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
-東風衛視台,http://211.75.171.121:8523/http/61.67.128.137:8081/hls/68/810/ch031.m3u8
-年代綜合台,http://211.75.171.121:8565/http/61.67.128.137:8081/hls/72/814/ch045.m3u8
-非凡商業台,http://211.75.171.121:8545/http/61.67.128.137:8081/hls/74/816/ch056.m3u8
-彭博財經台,http://211.75.171.121:8552/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
-鳯凰資訊台,http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
-鳯凰中文台,http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
-中天綜合台,http://211.75.171.121:8521/http/61.67.128.137:8081/hls/67/809/ch025.m3u8
-中天娛樂台,http://211.75.171.121:8551/http/61.67.128.137:8081/hls/67/809/ch026.m3u8
-三立台湾台,http://211.75.171.121:8516/http/61.67.128.137:8081/hls/65/807/ch020.m3u8
-三立都會台,http://211.75.171.121:8517/http/61.67.128.137:8081/hls/65/807/ch019.m3u8
-八大第一台,http://211.75.171.121:8597/http/61.67.128.137:8088/hls/66/808/ch022.m3u8
-八大綜合台,http://211.75.171.121:8598/http/61.67.128.137:8088/hls/66/808/ch021.m3u8
-八大戲劇台,http://211.75.171.121:8513/http/61.67.128.137:8081/hls/66/808/ch023.m3u8
-東森綜合台,http://211.75.171.121:8519/http/61.67.128.137:8081/hls/63/805/ch012.m3u8
-東森戲劇台,http://211.75.171.121:8525/http/61.67.128.137:8081/hls/64/806/ch013.m3u8
-東森超視台,http://211.75.171.121:8541/http/61.67.128.137:8081/hls/64/806/ch014.m3u8
-東森幼幼台,http://211.75.171.121:8593/http/61.67.128.137:8088/hls/63/805/ch009.m3u8
-緯來綜合台,http://211.75.171.121:8596/http/61.67.128.137:8088/hls/68/810/ch032.m3u8
-緯來戲劇台,http://211.75.171.121:8529/http/61.67.128.137:8081/hls/69/811/ch033.m3u8
-緯來育樂台,http://211.75.171.121:8563/http/61.67.128.137:8081/hls/68/810/ch030.m3u8
-緯來體育台,http://211.75.171.121:8564/http/61.67.128.137:8081/hls/67/809/ch028.m3u8
-龍華戲劇台,http://211.75.171.121:8506/http/61.67.128.137:8068/hls/13/80/cstv13.m3u8
-龍華日韓台,http://211.75.171.121:8507/http/61.67.128.137:8068/hls/12/80/cstv12.m3u8
-龍華偶像台,http://211.75.171.121:8508/http/61.67.128.137:8068/hls/11/80/cstv11.m3u8
-HBO亞洲台,http://211.75.171.121:8558/http/61.67.128.137:8081/hls/71/813/ch041.m3u8
-AXN亞洲台,http://211.75.171.121:8559/http/61.67.128.137:8081/hls/71/813/ch043.m3u8
-龍華電影台,http://211.75.171.121:8509/http/61.67.128.137:8068/hls/10/80/cstv10.m3u8
-緯來電影台,http://211.75.171.121:8581/http/61.67.128.137:8081/hls/69/811/ch035.m3u8
-韓國娛樂台,http://211.75.171.121:8518/http/61.67.128.137:8092/upload/116/KMTV_TS-1111_1.m3u8
-旅遊生活台,http://211.75.171.121:8510/http/61.67.128.137:8088/hls/70/812/ch038.m3u8
-亞洲旅遊台,http://211.75.171.121:8512/http/61.67.128.137:8088/hls/76/818/ch061.m3u8
-探索發現台,http://211.75.171.121:8515/http/61.67.128.137:8088/hls/71/813/ch044.m3u8
-寵物俱樂部,http://211.75.171.121:8528/http/61.67.128.137:8078/hls/40/80/pettv.m3u8
-動物星球台,http://211.75.171.121:8590/http/61.67.128.137:8088/hls/70/812/ch037.m3u8
-人間衛視台,http://211.75.171.121:8514/http/61.67.128.137:8088/hls/69/811/ch036.m3u8
-大愛電視台,http://211.75.171.121:8585/http/61.67.128.137:8088/hls/73/815/ch052.m3u8
-好消息綜合,http://211.75.171.121:8586/http/61.67.128.137:8088/hls/74/816/ch053.m3u8
-博斯運動台,http://211.75.171.121:8543/http/61.67.128.137:8068/hls/15/80/cstv15.m3u8
-城市運動台,http://211.75.171.121:8587/http/61.67.128.137:8078/hls/112/80/tracesport.m3u8
-DAZN一台,http://211.75.171.121:8579/http/61.67.128.137:8078/hls/25/80/esport.m3u8
-DAZN二台,http://211.75.171.121:8578/http/61.67.128.137:8078/hls/26/80/esport2.m3u8
-NHK世界台,http://211.75.171.121:8553/http/61.67.128.137:8081/hls/62/804/ch006.m3u8
-MOMO綜合,http://211.75.171.121:8502/http/61.67.128.137:8081/hls/76/818/momo_4max.m3u8
-MOMO親子,http://211.75.171.121:8522/http/61.67.128.137:8081/hls/90/80/momo4max.m3u8
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-北京移动ipv6👉全网,#genre#
-CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+
+港澳台,#genre#
+TVB武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+東森電影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+
+龍華电影,http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+愛爾達影劇,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+
+緯來電影,http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
+
+八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+东森戏剧,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+
+緯來戲劇,http://122.117.71.103:8532/http/220.130.87.218:8081/hls/69/811/ch033.m3u8
+三立戏剧,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+龙华偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+
+龙祥电影,http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+
+
+
+
+IPtv6👉全网,#genre#
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
 CCTV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
