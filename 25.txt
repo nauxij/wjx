@@ -2,48 +2,55 @@
 中国港澳台👉全网,#genre#
 CCTV-5+,http://qins.ren:50001/TVOD/6000000001000015875/wasusyt/index.m3u8
 CCTV-12,http://qins.ren:50001/TVOD/5000000011000031107/bestzb/index.m3u8
+CCTV1,http://124.163.23.23:6001/rtp/226.0.2.153:9136
 
-亚洲影院,http://129.150.58.101:50001/TVOD/5841816227539527643/wasusyt/index.m3u8?
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV3,http://124.163.23.23:6001/rtp/226.0.2.208:9576
 
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+CCTV5,http://124.163.23.23:6001/rtp/226.0.2.209:9584
+CCTV6,http://124.163.23.23:6001/rtp/226.0.2.210:9592
+CCTV12,http://124.163.23.23:6001/rtp/226.0.2.164:9224
+CCTV8,http://124.163.23.23:6001/rtp/226.0.2.211:9600
+CCTV5+,http://124.163.23.23:6001/rtp/226.0.2.168:9256
 
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+CHC高清电影,http://124.163.23.23:6001/rtp/226.0.2.93:8004
+CHC动作电影,http://124.163.23.23:6001/rtp/226.0.2.94:8012
+梨园频道,http://124.163.23.23:6001/rtp/226.0.2.115:8832
+CCTV央视台球,http://124.163.23.23:6001/rtp/226.0.2.216:9640
+CHC家庭影院,http://124.163.23.23:6001/rtp/226.0.2.240:9820
 
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+河北都市高清,http://101.18.30.19:808/tsfile/live/1000_1.m3u8
 
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+河北影视剧高清,http://101.18.30.19:808/tsfile/live/1001_1.m3u8
 
-北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-超级电影,http://qins.ren:50001/TVOD/2000000003000000031/hnbblive/index.m3u8
-中视经典,http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=MECE1189477111894771&ct=19234&tsum=582d215df269921b0c0ce288b5fac94a
-天映经典,http://180.143.83.119:8181/tsfile/live/1073_1.m3u8
-深圳卫视,http://qins.ren:50001/TVOD/5000000004000007410/bestzb/index.m3u8
-上海卫视,http://180.143.83.119:8181/tsfile/live/0107_1.m3u8
-北京卫视,http://180.143.83.119:8181/tsfile/live/0122_1.m3u8
-天津卫视,http://180.143.83.119:8181/tsfile/live/0135_1.m3u8
-重庆卫视,http://180.143.83.119:8181/tsfile/live/0142_1.m3u8
+河北少儿科教高清,http://101.18.30.19:808/tsfile/live/1002_1.m3u8
 
-江西卫视,http://180.143.83.119:8181/tsfile/live/0138_1.m3u8
-动作电影,http://180.143.83.119:8181/tsfile/live/1047_1.m3u8
-云南卫视,http://180.143.83.119:8181/tsfile/live/0119_1.m3u8
+河北公共高清,http://101.18.30.19:808/tsfile/live/1003_1.m3u8
 
-湖南卫视,http://180.143.83.119:8181/tsfile/live/0128_1.m3u8
-广州影视,http://180.143.83.119:8181/tsfile/live/0131_1.m3u8
-辽宁卫视,http://180.143.83.119:8181/tsfile/live/0121_1.m3u8
+河北农民高清,http://101.18.30.19:808/tsfile/live/1004_1.m3u8
 
+河北杂技,http://101.18.30.19:808/tsfile/live/1005_1.m3u8
+
+保定新闻综合,http://101.18.30.19:808/tsfile/live/1006_1.m3u8
+河南卫视高清,http://101.18.30.19:808/tsfile/live/1018_1.m3u8
+黑龙江卫视高清,http://101.18.30.19:808/tsfile/live/1019_1.m3u8
+四川卫视高清,http://101.18.30.19:808/tsfile/live/1020_1.m3u8
+江西卫视高清,http://101.18.30.19:808/tsfile/live/1021_1.m3u8
+贵州卫视高清,http://101.18.30.19:808/tsfile/live/1022_1.m3u8
+深圳卫视高清,http://101.18.30.19:808/tsfile/live/1023_1.m3u8
+湖北卫视高清,http://101.18.30.19:808/tsfile/live/1024_1.m3u8
+东方卫视高清,http://101.18.30.19:808/tsfile/live/1025_1.m3u8
+重庆卫视高清,http://101.18.30.19:808/tsfile/live/1026_1.m3u8
+广东卫视高清,http://101.18.30.19:808/tsfile/live/1027_1.m3u8
+广西卫视,http://101.18.30.19:808/tsfile/live/0113_1.m3u8
+吉林卫视高清,http://101.18.30.19:808/tsfile/live/1028_1.m3u8
+陕西卫视,http://101.18.30.19:808/tsfile/live/0136_1.m3u8
+内蒙古卫视,http://101.18.30.19:808/tsfile/live/0109_1.m3u8
+青海卫视,http://101.18.30.19:808/tsfile/live/0140_1.m3u8
+海南卫视,http://101.18.30.19:808/tsfile/live/1029_1.m3u8
+宁夏卫视,http://101.18.30.19:808/tsfile/live/0112_1.m3u8
+西藏卫视,http://101.18.30.19:808/tsfile/live/0111_1.m3u8
+新疆卫视,http://101.18.30.19:808/tsfile/live/0110_1.m3u8
+山东教育,http://101.18.30.19:808/tsfile/live/1030_1.m3u8
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 
