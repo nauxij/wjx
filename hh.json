@@ -39,6 +39,13 @@
             "type_flag": 0
         },
         {
+            "key": "config",
+            "name": "🐼┃配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "playerType": 2
+        },
+        {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣[js]",
             "type": 3,
