@@ -190,36 +190,6 @@
             "ext": "https://v.xlys.ltd.ua"
         },
         {
-            "key": "csp_AppXY",
-            "name": "🐸上头┃短剧",
-            "type": 3,
-            "api": "csp_AppXYGuard"
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/biancheng.jar",
-        },
-        {
-            "key": "相声小品",
-            "name": "🌈相声┃小品",
-            "type": 3,
-            "api": "csp_Bili",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/duo.jar",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
-        },
-        {
-            "key": "儿童编程",
-            "name": " 🧒编程┃儿童",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "order_num": 142,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/儿童编程.json"
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/biancheng.jar",
-        },
-        {
             "key": "✨安迪短剧✨",
             "name": "✨安迪短剧✨",
             "type": 3,
