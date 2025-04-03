@@ -6,7 +6,7 @@
             "name": "本地live文件",
             "type": "0",
             "pass": true,
-            "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/qd.json",
+            "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/25.json",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
         },
@@ -39,13 +39,6 @@
             "type_flag": 0
         },
         {
-            "key": "config",
-            "name": "🐼┃配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "playerType": 2
-        },
-        {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣[js]",
             "type": 3,
@@ -65,35 +58,6 @@
             "type": 3,
             "api": "\nhttps://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
             "ext": "\nhttps://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/优酷.js"
-        },
-         {
-            "key": "csp_AppXY",
-            "name": "🐸上头┃短剧",
-            "type": 3,
-            "api": "csp_AppXYGuard"
-            "jar": ""
-        },
-        {
-            "key": "相声小品",
-            "name": "🌈相声┃小品",
-            "type": 3,
-            "api": "csp_Bili",
-            "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
-        },
-           {
-            "key": "儿童编程",
-            "name": " 🧒编程┃儿童",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "order_num": 142,
-            "ext": "./lib/儿童编程.json"
         },
         {
             "key": "drpy_js_腾云驾雾",
@@ -224,6 +188,145 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://v.xlys.ltd.ua"
+        },
+            {
+            "key": "csp_AppXY",
+            "name": "🐸上头┃短剧",
+            "type": 3,
+            "api": "csp_AppXYGuard"
+            "jar": ""
+        },
+        {
+            "key": "相声小品",
+            "name": "🌈相声┃小品",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/duo.jar",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
+        },
+           {
+            "key": "儿童编程",
+            "name": " 🧒编程┃儿童",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "./lib/儿童编程.json"
+        },
+        {
+            "key": "✨安迪短剧✨",
+            "name": "✨安迪短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/安迪短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨PTT短剧✨",
+            "name": "✨PTT短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/PTT短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨一起看✨",
+            "name": "✨一起看短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/一起看短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨天龙影院✨",
+            "name": "✨天龙短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/天龙短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨七味短剧✨",
+            "name": "✨七味短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/七味短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨白嫖者联盟✨",
+            "name": "✨白嫖短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/白嫖者.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨老王影院✨",
+            "name": "✨老王短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/老王短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨奇优影院✨",
+            "name": "✨奇优短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/奇优短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+         {
+            "key": "✨毒舌短剧✨",
+            "name": "✨毒舌短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/毒舌短剧.json",
+             "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
+        },
+        {
+            "key": "✨微云影视✨",
+            "name": "✨微云短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/微云短剧.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
         },
         {
             "key": "csp_XYQHiker_修罗影视",
@@ -437,7 +540,6 @@
                 "香港剧",
                 "泰国剧",
                 "日本剧",
-                "福利",
                 "记录片",
                 "动画片",
                 "海外剧",
