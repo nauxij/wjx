@@ -193,7 +193,7 @@
             "key": "儿童编程",
             "name": " 🧒编程┃儿童",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main//drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
