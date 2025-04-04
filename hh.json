@@ -201,18 +201,6 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/spider.jar"
         },
         {
-            "key": "儿童编程",
-            "name": "🧒编程┃儿童",
-            "type": 3,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "order_num": 142,
-            "api": "\nhttps://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/儿童编程.json",
-            "jar": "https://gitee.com/nauxijgnaw/cs/raw/master/xiaomi.php",                    
-        },
-        {
             "key": "✨PTT短剧✨",
             "name": "✨PTT短剧✨",
             "type": 3,
