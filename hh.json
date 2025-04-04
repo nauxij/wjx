@@ -202,15 +202,15 @@
         },
         {
             "key": "儿童编程",
-            "name": " 🧒编程┃儿童",
+            "name": ＂🧒编程┃儿童",
             "type": 3,
             "api": "\nhttps://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main//drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "order_num": 142,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/儿童编程.json"
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/biancheng.jar",        
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/biancheng.jar",                    
         },
         {
             "key": "✨PTT短剧✨",
