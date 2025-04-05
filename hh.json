@@ -171,6 +171,18 @@
             "searchable": 1
         },
         {
+            "key": "儿童编程",
+            "name": " 🧒编程┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/cs/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/cs/raw/master/儿童编程.json"
+             "jar": "https://gitee.com/nauxijgnaw/cs/raw/master/xiaomi.php"
+        },
+        {
             "key": "csp_Kuaikan",
             "name": "💡快看影视",
             "type": 3,
