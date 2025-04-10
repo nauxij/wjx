@@ -723,24 +723,6 @@
             "ext": "https://gitee.com/nauxijgnaw/moyukuai/raw/master/去看吧.js"
         },
         {
-            "key": "csp_Ysj",
-            "name": "💫异界┃动漫┃蓝光",
-            "type": 3,
-            "api": "csp_YsjGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "📖日漫┃动漫┃蓝光",
-            "type": 3,
-            "api": "csp_Anime1Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "xxg",
             "name": "🍉西瓜┃娱乐┃蓝光",
             "type": 3,
