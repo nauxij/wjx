@@ -6,7 +6,7 @@
             "name": "本地live文件",
             "type": "0",
             "pass": true,
-            "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/25.json",
+            "url": "http://rihou.cc:567/gggg.nzk",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
         },
@@ -14,7 +14,7 @@
             "name": "BMCH",
             "type": "0",
             "pass": true,
-            "url": "./lib/iptv-ok.m3u",
+            "url": "https://gitee.com/nauxijgnaw/sxwn/raw/master/qdmtv.m3u8",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
@@ -22,7 +22,7 @@
             "name": "Tianmu",
             "type": "0",
             "pass": true,
-            "url": "./lib/iptv.txt",
+            "url": "https://gitee.com/nauxijgnaw/sxwn/raw/master/qdyd.txt",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
         }
