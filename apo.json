@@ -43,16 +43,16 @@
       "ext": "https://gh-proxy.com/https://github.com/nauxij/wjx/blob/main/高中课堂.json"
     },
     {
-       "key": "儿童编程",
-       "name": " 🧒编程┃儿童",
-       "type": 3,
-       "api": "https://gitee.com/nauxijgnaw/cs/raw/master/drpy2.min.js",
-       "searchable": 0,
-       "quickSearch": 0,
-       "filterable": 1,
-       "ext": "https://gitee.com/nauxijgnaw/cs/raw/master/儿童编程.json",
-       "jar": "https://gitee.com/nauxijgnaw/cs/raw/master/xiaomi.php"
-    }
+      "key": "儿童编程",
+      "name": " 🧒编程┃儿童",
+      "type": 3,
+      "api": "https://gitee.com/nauxijgnaw/cs/raw/master/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitee.com/nauxijgnaw/cs/raw/master/儿童编程.json",
+      "jar": "https://gitee.com/nauxijgnaw/cs/raw/master/xiaomi.php"
+    } 
   ],
   "parses": [
     {
@@ -581,4 +581,4 @@
     "cms.qdwght.com",
     "api.htpan.net"
   ]
-    }
+}
