@@ -8,7 +8,7 @@
             "pass": true,
             "url": "http://rihou.cc:567/gggg.nzk",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://github.com/nauxij/tv/blob/main/{name}.png"
+            "logo": "https://gitee.com/nauxijgnaw/tv/raw/master/{name}.png"
         },
         {
             "name": "BMCH",
@@ -16,15 +16,15 @@
             "pass": true,
             "url": "https://gitee.com/nauxijgnaw/sxwn/raw/master/qdmtv.m3u8",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
+            "logo": "https://gitee.com/nauxijgnaw/tv/raw/master/{name}.png"
         },
         {
-            "name": "Tianmu",
+            "name": "qddy",
             "type": "0",
             "pass": true,
             "url": "https://gitee.com/nauxijgnaw/sxwn/raw/master/qdyd.txt",
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
+            "logo": "https://gitee.com/nauxijgnaw/tv/raw/master/{name}.png"
         }
     ],
     "sites": [
