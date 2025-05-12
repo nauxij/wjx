@@ -2,13 +2,14 @@
     "wallpaper": "https://wp.upx8.com/api.php",
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/custom_spider.jar",
     "lives": [
-        {
-            "name": "本地live文件",
-            "type": "0",
-            "pass": true,
-            "url": "http://rihou.cc:567/gggg.nzk",
+       {
+            "name": "qdmy",
+            "type": 0,
+            "url": "https://gitee.com/nauxijgnaw/sxwn/raw/master/qdyd.png",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://gitee.com/nauxijgnaw/hh/raw/master/{name}.png"
+            "logo": "https://gitee.com/nauxijgnaw/hh/raw/master/{name}.png",
+            "ua": "okhttp/3.15",
+            "playerType": 2
         },
         {
             "name": "青岛u38",
@@ -20,14 +21,14 @@
             "playerType": 2
         },
         {
-            "name": "青岛",
-            "type": 0,
-            "url": "https://gitee.com/nauxijgnaw/sxwn/raw/master/qdyd.png",
+            "name": "本地live文件",
+            "type": "0",
+            "pass": true,
+            "url": "http://rihou.cc:567/gggg.nzk",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://gitee.com/nauxijgnaw/hh/raw/master/{name}.png",
-            "ua": "okhttp/3.15",
-            "playerType": 2
+            "logo": "https://gitee.com/nauxijgnaw/hh/raw/master/{name}.png"
         }
+
     ],
     "sites": [
         {
