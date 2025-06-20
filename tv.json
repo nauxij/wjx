@@ -1,0 +1,1002 @@
+{
+    "spider": "https://gitee.com/nauxijgnaw/jsno/raw/master/xingchen.php",
+    "wallpaper": "https://t.alcy.cc/fj",
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "VIP豆瓣排行①",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+            "key": "hipy_js_豆瓣[官]",
+            "name": "豆瓣排行②",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/豆瓣[官].js"
+        },
+        {
+            "key": "T4-douban",
+            "name": "影视-豆瓣(T4)",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/douban.php"
+        },
+        {
+            "key": "配置中心",
+            "name": "❤配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "hipy_js_央视大全[官]",
+            "name": "📺央视┃大全",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/央视大全[官].js"
+        },
+        {
+            "key": "hipy_js_荐片[优]",
+            "name": "💝荐片┃影视",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/荐片[优].js"
+        },
+        {
+            "key": "hipy_js_6V新版[磁]",
+            "name": "💝磁力┃新六",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/6V新版[磁].js"
+        },
+        {
+            "key": "移动",
+            "name": "🔥移动┃4K",
+            "type": 3,
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "绝对影视",
+            "name": "🔥绝对｜影视",
+            "type": 3,
+            "api": "csp_FourK",
+            "ext": "https://www.4kvm.tv",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "忍者",
+            "name": "🔥忍者｜影视",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfxs123.sbs",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "苹果影视",
+            "name": "💡苹果｜影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "人人",
+            "name": "💡人人｜影视",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.xiaohys.com",
+                "dataKey": "ENonBHeVBoYZhVUV",
+                "dataIv": "ENonBHeVBoYZhVUV",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "166"
+            },
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "金牌影视PY",
+            "name": "🧡金牌｜PY影视",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/金牌.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            },
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "csp_Xunlei8",
+            "name": "💝磁力┃迅雷",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/dhys.jar"
+        },
+        {
+            "key": "芷白",
+            "name": "🔥芷白｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://mitv.bbbzd.cn",
+                "dataKey": "hgfdsapoiuytrewq",
+                "dataIv": "hgfdsapoiuytrewq",
+                "deviceId": "2dc3f47bb8bc03343a977a346935d9f62",
+                "version": "102"
+            }
+        },
+        {
+            "key": "csp_CZSPP",
+            "name": "🔥厂长｜影视",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
+            "searchable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
+        },
+        {
+            "key": "天天",
+            "name": "🔥天天｜影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://tt.ysdqjs.cn"
+            }
+        },
+        {
+            "key": "浪酷影视",
+            "name": "🔥浪酷｜影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.lkuys.cn"
+            }
+        },
+        {
+            "key": "剧评",
+            "name": "🔥剧评｜影视",
+            "type": 3,
+            "api": "csp_Jpys",
+            "jar": "https://lz.qaiu.top/d/le/4RNSBPBkDBS1LoCi6",
+            "playerType": 1,
+            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+        },
+        {
+            "key": "HD",
+            "name": "🔥秒播｜影视",
+            "type": 3,
+            "api": "csp_Hudie",
+            "jar": "https://lz.qaiu.top/d/le/4H5tqKjJPoG45xkge",
+            "playerType": 2,
+            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+        },
+        {
+            "key": "橘猫",
+            "name": "🔥橘猫｜4K",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.jm4k.top",
+                "dataKey": "KPEkKAESYi38CQdn",
+                "dataIv": "KPEkKAESYi38CQdn",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
+            "key": "彼岸",
+            "name": "🔥彼岸｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://172.247.44.217:30012",
+                "dataKey": "JLa1oRdL6+eK7@M)",
+                "dataIv": "JLa1oRdL6+eK7@M)",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "荐片",
+            "name": "🔥荐片｜磁力",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": 1,
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "一个G",
+            "name": "🔥毅哥｜蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "圥忈制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://www.ddmf.net/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+            }
+        },
+        {
+            "key": "蝴蝶",
+            "name": "🔥蝴蝶｜影视",
+            "type": 3,
+            "api": "csp_Hudie",
+            "jar": "https://lz.qaiu.top/d/lz/i5MYu2p7cxoj",
+            "playerType": 2,
+            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+        },
+        {
+            "key": "狐狸君",
+            "name": "🔥狐狸｜4K",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/6v.json"
+        },
+        {
+            "key": "FourKTV",
+            "name": "🔥复刻｜影视",
+            "type": 3,
+            "api": "csp_FourKTV",
+            "jar": "https://lz.qaiu.top/d/lz/iZZiO2rkmy5g",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "UcXmV2",
+            "name": "❤小二资源┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/ex.json"
+        },
+        {
+            "key": "QuarkzzV2",
+            "name": "🏆️夸克至臻┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/zz.json"
+        },
+        {
+            "key": "趣盘",
+            "name": "🥳百度趣盘┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebQu",
+            "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "url": "https://www.qupanshe.com"
+            }
+        },
+        {
+            "key": "木偶",
+            "name": "❤木偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/mogg.json?",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "蜡笔",
+            "name": "❤蜡笔｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/lb.json?",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "至臻",
+            "name": "❤至臻｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/zz.json?",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "多多",
+            "name": "❤多多｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/yyds.json?",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "玩偶",
+            "name": "❤玩偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/wogg.json?",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "雷鲸",
+            "name": "❤雷鲸｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudLJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/lj.json",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "阿里云盘",
+            "name": "❤我的｜阿里",
+            "type": 3,
+            "api": "csp_PanAli",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/aliShare.json",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "夸克云盘",
+            "name": "❤我的｜夸克",
+            "type": 3,
+            "api": "csp_PanQuark",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/quarkShare.json",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "UC",
+            "name": "❤我的｜UC",
+            "type": 3,
+            "api": "csp_PanUc",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/ucShare.json",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "百度云盘",
+            "name": "❤我的｜百度",
+            "type": 3,
+            "api": "csp_PanBaiDu",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/ouge.php"
+        },
+        {
+            "key": "ygcl",
+            "name": "💝影港┃4K",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/meow.php"
+        },
+        {
+            "key": "相声小品",
+            "name": "🌈相声┃小品",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "https://gitee.com/nauxijgnaw/jsno/raw/master/duo.jar",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
+        },
+        {
+            "key": "学堂",
+            "name": "🅰️学堂┃教育",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/学堂教育.json"
+        },
+        {
+            "key": "少儿",
+            "name": "🅰️少儿┃合集",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/少儿合集.json"
+        },
+        {
+            "key": "小学课堂",
+            "name": "🅰️小学┃课堂",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/小学课堂.json"
+        },
+        {
+            "key": "初中课堂",
+            "name": "🅰️初中┃课堂",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/初中课堂.json"
+        },
+        {
+            "key": "高中课堂",
+            "name": "🅰️高中┃课堂",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/高中课堂.json"
+        },
+        {
+            "key": "儿童口才",
+            "name": " 🧒口才┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童口才.json"
+        },
+        {
+            "key": "儿童拼音",
+            "name": " 🧒拼音┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童拼音.json"
+        },
+        {
+            "key": "儿童识字",
+            "name": " 🧒识字┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童识字.json"
+        },
+        {
+            "key": "儿童思维",
+            "name": " 🧒思维┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童思维.json"
+        },
+        {
+            "key": "儿童英语",
+            "name": " 🧒英语┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童英语.json"
+        },
+        {
+            "key": "儿童硬笔",
+            "name": " 🧒硬笔┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童硬笔.json"
+        },
+        {
+            "key": "儿童编程",
+            "name": " 🧒编程┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童编程.json"
+        },
+        {
+            "key": "儿童武术",
+            "name": " 🧒武术┃儿童",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/儿童武术.json"
+        },
+        {
+            "key": "csp_BBB",
+            "name": "🅱️套餐┃哔哩",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/哔哩套餐1.json"
+        },
+        {
+            "key": "Bili",
+            "name": "🅱️套餐2┃哔哩",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/哔哩套餐2.json"
+        },
+        {
+            "key": "软件",
+            "name": "🅰️软件┃教程",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/软件教程.json"
+        },
+        {
+            "key": "演唱会",
+            "name": "🅰️演唱会┃哔哩",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/演唱会.json"
+        },
+        {
+            "key": "戏曲",
+            "name": "🅰️戏曲┃合集",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/戏曲合集.json"
+        },
+        {
+            "key": "MV",
+            "name": "🌈歌曲┃哔哩",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/歌曲MV.json"
+        },
+        {
+            "key": "美食",
+            "name": "🌈美食┃哔哩",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/美食.json"
+        },
+        {
+            "key": "球类",
+            "name": "⚽️球类┃合集",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/球类合集.json"
+        },
+        {
+            "key": "球星",
+            "name": "⚽️球星┃合集",
+            "type": 3,
+            "api": "https://gitee.com/nauxijgnaw/jsno/raw/master/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "https://gitee.com/nauxijgnaw/jsno/raw/master/球星合集.json"
+        },
+        {
+            "key": "cc",
+            "name": "请勿相信视频中广告",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        }
+    ],
+    "parses": [
+        {
+            "name": "线路1",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "盘古解析",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url="
+        },
+        {
+            "name": "解析1",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "巧技二",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905",
+                    "NetFilx"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        }
+    ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+    "lives": [
+        {
+            "name": "直播二",
+            "type": 0,
+            "url": "https://gitee.com/nauxijgnaw/jsno/raw/master/xinzb.txt",
+            "ua": "okhttp/3.15",
+            "playerType": 2
+        }
+    ],
+    "rules": [
+        {
+            "name": "♻️量非",
+            "hosts": [
+                "lz",
+                "vip.lz",
+                "v.cdnlz",
+                "hd.lz",
+                "ffzy",
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️索尼",
+            "hosts": [
+                "suonizy",
+                "qrssv.com"
+            ],
+            "regex": [
+                "15.1666",
+                "15.2666"
+            ]
+        },
+        {
+            "name": "♻️乐视",
+            "hosts": [
+                "leshiyun"
+            ],
+            "regex": [
+                "15.92"
+            ]
+        },
+        {
+            "name": "♻️优质",
+            "hosts": [
+                "yzzy",
+                "playback"
+            ],
+            "regex": [
+                "16.63",
+                "18.66",
+                "17.66",
+                "19.13"
+            ]
+        },
+        {
+            "name": "♻️快看",
+            "hosts": [
+                "kuaikan",
+                "vip.kuaikan"
+            ],
+            "regex": [
+                "15.32",
+                "15.231",
+                "18.066"
+            ]
+        },
+        {
+            "name": "♻️360",
+            "hosts": [
+                "lyhuicheng"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+                "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️开源棋牌",
+            "hosts": [
+                "askzycdn",
+                "jkunbf",
+                "bfikuncdn",
+                "bfaskcdn"
+            ],
+            "regex": [
+                "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️暴风",
+            "hosts": [
+                "bfengbf.com",
+                "bfzy",
+                "c1"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "♻️农民",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "♻️火山",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "♻️抖音",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "♻️磁力",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        },
+        {
+            "name": "♻️饭团点击",
+            "hosts": [
+                "dadagui",
+                "freeok",
+                "dadagui"
+            ],
+            "script": [
+                "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+            ]
+        },
+        {
+            "name": "♻️毛驴点击",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        }
+    ]
+}
