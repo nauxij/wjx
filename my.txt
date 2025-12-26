@@ -1,5 +1,4 @@
 动作专属_1010,#genre#
-央卫港澳台,#genre#
 CCTV1,http://rihou.cc:555/tv/[Pd]央视综合
 CCTV3,http://iptv.4666888.xyz/iptv2A.php?id=9
 CCTV5,http://yp.qqqtv.top/1/api.php?id=CCTV-5HD&auth=666858
