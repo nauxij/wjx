@@ -251,40 +251,6 @@
             }
         },
         {
-            "key": "csp_BBB",
-            "name": "🅱️套餐┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/哔哩套餐1.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "csp_111BB",
-            "name": "🅱️套餐2┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/哔哩套餐2.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
             "key": "push_agent",
             "name": "🛴推送┃播放接口免费，请测试完删除处理",
             "type": 3,
