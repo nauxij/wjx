@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/ouge.php",
+    "spider": "https://gitee.com/nauxijgnaw/sxwn/raw/master/ouge.php",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
@@ -98,6 +98,7 @@
             },
             "style": {
                 "type": "rect",
+
                 "ratio": 1.597
             }
         },
