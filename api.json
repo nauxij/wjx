@@ -1,106 +1,106 @@
 {
-    "spider": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/ouge.php",
-    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-    "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
-    "lives": [
+"蜘蛛":“https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/ouge .PHP，"蜘蛛":" https://raw . githubusercontent . com/nau xij/wjx/refs/heads/main/ouge . PHP "，
+「壁纸」:(「http://bobo home .忽略列表. com:20247/bing【壁纸】:“http://bobo home . ignore list . com:20247/bing”，20247/bing」，“壁纸”: " http://bobo home . ignore list . com:20247/bing ",
+"警告文本": "仅作学习交流测试使用,配置或下载后请于24小时之内删除“，”warningText“:”仅作学习交流测试使用,配置或下载后请于24小时之内删除",: "仅作学习交流测试使用,配置或下载后请于24小时之内删除","warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
+"生活":["生活":[:[“生命”: [
         {
-            "name": "平台直播",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/xinzb.txt",
-            "playerType": 1
+"名称": "平台直播","名称": "平台直播",
+【类型】:0，“类型”:0，0，"类型": 0,
+"网址":https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/xinzb .txt "，"网址":" https://raw。githubusercontent。com/nau xij/wjx/refs/heads/main/xinzb。txt "，:" https://raw。githubusercontent。com/nau xij/wjx/refs/heads/main/xinzb。txt "，“网址”:" https://raw . githubusercontent . com/nau xij/wjx/refs/heads/main/xinzb . txt ",
+【播放器类型】:1“玩家类型”:11"播放器类型": 1
         },
         {
-            "name": "港澳台",
-            "type": 0,
-            "url": "http://rihou.cc:567/gggg.nzk",
-            "playerType": 1
+"名称": "港澳台“，”名称“:”港澳台",: "港澳台","名称": "港澳台",
+【类型】:0，“类型”:0，0，"类型": 0,
+"网址":“http://ri Hou .抄送:567/gggg .nzk”、“URL”:“http://ri Hou。抄送:567/gggg。nzk "，:"http://日侯。抄送:567/gggg . nzk "，"url": "http://rihou.cc:567/gggg.nzk",
+【播放器类型】:1“玩家类型”:11"播放器类型": 1
         }
     ],
-    "sites": [
+"站点":["站点":[:["网站": [
         {
-            "key": "drpy_js_豆瓣",
-            "name": "茄子库豆瓣排行",
-            "type": 3,
-            "api": "csp_Douban"
+"钥匙": " drpy_js_豆瓣"，"钥匙": " drpy_js_豆瓣",: " drpy_js_豆瓣","钥匙": " drpy_js_豆瓣",
+"名称": "茄子库豆瓣排行“，”名称“:”茄子库豆瓣排行",: "茄子库豆瓣排行","名称": "茄子库豆瓣排行",
+【类型】:3、「类型」:3、3、"类型": 3,
+" API ":" CSP _豆瓣"“API”:" CSP _豆瓣":" CSP _豆瓣"" api ": " csp _豆瓣"
         },
         {
-            "key": "hpy_js_豆瓣[官]",
-            "name": "VIP豆瓣排行②",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/豆瓣[官].js"
+"钥匙": " hpy_js_豆瓣[官]、"key": "hpy_js_豆瓣[官]"，:" hpy_js_豆瓣[官]"，" key": "hpy_js_豆瓣[官]",
+【姓名】:VIP豆瓣排行②"、"姓名”:“VIP豆瓣排行②",","名称":“VIP豆瓣排行②",
+【类型】:3、「类型」:3、3、类型:3,
+" API ":“https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/drpy 2 .量滴js "，" API ":" https://raw。githubusercontent。com/nau xij/wjx/refs/heads/main/drpy 2。量滴js "，:" https://raw。githubusercontent。com/nau xij/wjx/refs/heads/main/drpy 2。量滴js "，" API ":" https://raw . githubusercontent . com/nau xij/wjx/refs/heads/main/drpy 2 . min . js "，
+【可搜索】:1、“可搜索”:1、1、可搜索的:1,
+「快速搜索』:1、「快速搜索」:1、1，“快速搜索”:1,
+"可过滤":1 、"可过滤的": 1，1、可过滤的:1,
+"订单编号":0，"订单编号":0，0，“订单编号”:0,
+"分机":“https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/豆瓣[官].js " " ext ":" https://raw。githubusercontent。com/nau xij/wjx/refs/heads/main/豆瓣[官].js ":" https://raw。githubusercontent。com/nau xij/wjx/refs/heads/main/豆瓣[官].js " " ext ":" https://raw . githubusercontent . com/nau xij/wjx/refs/heads/main/豆瓣[官].js "
         },
         {
-            "key": "配置中心",
-            "name": "❤配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
+"密钥": "配置中心“，”键“:”配置中心",: "配置中心","钥匙": "配置中心",
+【姓名】:"❤配置┃中心”，“姓名”:“❤配置┃中心",","姓名“:”❤配置┃中心",
+【类型】:3、「类型」:3、3、"类型": 3,
+" api ": " csp_Config "，" api ": " csp_Config "，: " csp_Config "，“api”:" csp_Config ",
+"可搜索":0，"可搜索":0，0，"可搜索": 0,
+"多变":0，"可变":0，0，“多变”: 0,
+【指数】:0，"索引": 0，0，"索引": 0,
+"风格":{“风格”: {:{“风格”: {
+"类型": "矩形"，"类型": "矩形"，: "矩形"，“类型”:"矩形",
+【比例】:1.597「比」:1.5971.597“比率”:1.597
             }
         },
         {
-            "key": "应用商店",
-            "name": "🛒本地包更新",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "http://47.120.41.246:8025/vip/jar/bendi.php"
+"密钥": "应用商店","钥匙": "应用商店",
+【姓名】:“🛒本地包更新","姓名“:”🛒本地包更新",
+【类型】:3、"类型": 3,
+" api ": " csp _市场",: “ csp _市场“，" api ": " csp _市场",
+“可搜索”:0，"可搜索": 0,
+“多变”:0，“多变”: 0,
+"分机":“http://47 .120 .41 .246:8025/VIP/jar/bendi .PHP ""分机": “http://47。120 .41 .246:8025/VIP/jar/bendi。PHP "
         },
         {
-            "key": "哔哩少儿",
-            "name": "🅰少儿┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/少儿合集.json"
+"密钥": "哔哩少儿","钥匙": "哔哩少儿",
+【姓名】:“🅰少儿┃哔哩","姓名“:”🅰少儿┃哔哩",
+【类型】:3、"类型": 3,
+“API”:“CSP _贝利“API”:贝利csp »，" CSP _贝利"蜜蜂":贝利csp，
+“可搜索”:0，"可搜索": 0,
+“快速搜索”:0，"快速搜索": 0,
+“可过滤”:0，"可过滤": 0,
+"分机": {"分机": {
+“Cookie”:WEB //127。0.0.1:9978/文件/电视盒/贝利_cookie.txt "，"饼干":http://127。0 .0 .1:9978/文件/电视盒/毕丽_cookie.txt "，:“http://127。0 .0 .1:9978/文件/电视盒/毕丽_cookie.txt "，"饼干":“http://127。0 .0 .1:9978/file/TV box/贝利_cookie.txt ",
+“JSON”:“https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/Kleine sammelnJSON""JSON:“https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/Kleine sammelnJSON " https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/Kleine sammelnjsonJSON ":HTTPS://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/Kleine sammelnJSON
             },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
+"风格":{“风格”: {
+"类型": "矩形"，"类型": "矩形",
+【比例】:1.597"比率": 1.597
             }
         },
         {
-            "key": "️小学",
-            "name": "🅰️小学┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/小学课堂.json"
+“关键”:“️小学","关键":"️小学",
+【姓名】:“🅰️小学┃哔哩","name": "🅰️小学┃哔哩",
+            "类型": 3,
+            " api ": “贝利csp »,
+            "可搜索": 0,
+            "快速搜索": 0,
+            "可过滤": 0,
+“分机”:{
+"饼干": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt”,
+“JSON”:“https://raw .githubusercontent .com/nau xij/wjx/refs/heads/main/小学课堂JSON
             },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
+            “风格”: {
+                "类型": "矩形",
+                "比率": 1.597
             }
         },
         {
-            "key": "️初中",
-            "name": "🅰️初中┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/初中课堂.json"
+            "钥匙": "️初中",
+            "名称": "🅰️初中┃哔哩",
+            "类型": 3,
+            " api ": "毕丽csp ",
+            "可搜索": 0,
+            "快速搜索": 0,
+            "可过滤": 0,
+            "分机": {
+                "饼干": " http://127 . 0 . 0 . 1:9978/file/TV box/毕丽_cookie.txt ",
+                “json”: " https://raw . githubusercontent . com/nau xij/wjx/refs/heads/main/初中课堂。json "
             },
             "style": {
                 "type": "rect",
