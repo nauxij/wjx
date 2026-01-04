@@ -7,13 +7,7 @@
             "name": "平台直播",
             "type": 0,
             "url": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/xinzb.txt",
-            "playerType": 1
-        },
-        {
-            "name": "港澳台",
-            "type": 0,
-            "url": "http://rihou.cc:567/gggg.nzk",
-            "playerType": 1
+            "playerType":1
         }
     ],
     "sites": [
