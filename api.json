@@ -12,45 +12,6 @@
     ],
     "sites": [
         {
-            "key": "drpy_js_豆瓣",
-            "name": "茄子库豆瓣排行",
-            "type": 3,
-            "api": "csp_Douban"
-        },
-        {
-            "key": "hpy_js_豆瓣[官]",
-            "name": "VIP豆瓣排行②",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/豆瓣[官].js"
-        },
-        {
-            "key": "配置中心",
-            "name": "❤配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "应用商店",
-            "name": "🛒本地包更新",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "http://47.120.41.246:8025/vip/jar/bendi.php"
-        },
-        {
             "key": "哔哩少儿",
             "name": "🅰少儿┃哔哩",
             "type": 3,
