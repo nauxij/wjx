@@ -1,4 +1,4 @@
-<?php ?>
+
 {
     "spider": "https://gitee.com/nauxijgnaw/xue/raw/master/ouge.php",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
