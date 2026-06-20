@@ -1,0 +1,256 @@
+{
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/657103b89c5c7dda0a68a2517ef92464.jar",
+    "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
+    "logo": "https://telegraph-image-92x.pages.dev/file/dfcedb74c9846912694f1-67b143850652eef798.png",
+    "sites": [
+        {
+            "key": "少儿教育",
+            "name": "💓少儿┃教育💓",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/ertong.txt"
+            }
+        },
+        {
+            "key": "小学课堂",
+            "name": "💓小学┃课堂💓",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/xiaoxue.txt"
+            }
+        },
+        {
+            "key": "初中课堂",
+            "name": "💓初中┃课堂💓",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/chuzhong.txt"
+            }
+        },
+        {
+            "key": "高中教育",
+            "name": "💓高中┃课堂💓",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/nauxij/wjx/refs/heads/main/gaozhong.txt"
+            }
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+                "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+                "iptv.huuc.edu.cn=huucv6.188766.xyz",
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "10.0099",
+                "10.3333",
+                "16.0599",
+                "8.1748",
+                "12.33",
+                "10.85"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "農民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "新视觉嗅探",
+            "hosts": [
+                "muzhi-video.bj.bcebos.com"
+            ],
+            "regex": [
+                "202403/"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市點擊",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢點擊",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        }
+    ],
+    "ads": [
+        "mozai.4gtv.tv",
+        "pv.vipwm.cc",
+        "static-mozai.4gtv.tv"
+    ],
+    "lives": [
+        {
+            "name": "❤️裤佬TV",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "./lib/Jsnzkpg1.m3u"
+        },
+        {
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "./lib/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "❤️各大源合集 海豚影视永久免费如有收费的都是骗子",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "./lib/sese.txt"
+        },
+        {
+            "name": "综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "./lib/interface.txt",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        }
+    ],
+    "headers": [
+        {
+            "host": "hlsztemgsplive.miguvideo.com",
+            "header": {
+                "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+            }
+        }
+    ]
+}
